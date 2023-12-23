@@ -1,24 +1,32 @@
-# Calculadora de Fator de Queda
+## Fall Factor Calculator
+This is a simple application that calculates the fall factor based on the length of the lanyard and the height of the fall, developed in HTML, CSS, and JavaScript.
 
-Este é um aplicativo simples que calcula o fator de queda com base no comprimento do talabarte e na altura da queda, desenvolvido em HTML, CSS e JavaScript.
+**Features**
+Enter the length of the lanyard.
 
-## Funcionalidades
+<img src="PrintApp/print1.PNG" width="200" height="300"/>
 
-- Informe o comprimento do talabarte.
-  
-- <img src="PrintApp/print1.png" width="200" />
+Enter the height of the fall.
 
-- Informe a altura da queda.
-- Calcule o fator de queda.
-- Visualize o resultado com informações importantes.
+<img src="PrintApp/print2.PNG" width="200" height="300"/>
 
-## Pré-requisitos
+Calculate the fall factor.
 
-Antes de começar, certifique-se de ter um navegador web para executar o aplicativo.
+View the result with important information.
 
-## Instalação e Uso
+<p float="left">
+  <img src="PrintApp/print3.PNG" width="200" />
+  <img src="PrintApp/print4.PNG" width="190" />
+  <img src="PrintApp/print5.PNG" width="205" />
+</p>
 
-1. Clone o repositório para sua máquina local:
+**Prerequisites**
+
+Before getting started, make sure you have a web browser to run the application.
+
+**Installation and Usage**
+
+Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/paulob3j/CalculadoraFatorQueda-HTML-CSS-JS.git
